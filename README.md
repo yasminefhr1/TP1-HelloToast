@@ -8,9 +8,9 @@ Fonctionnalités:
 - Réinitialisation du compteur à zéro en appuyant sur le bouton RESET.
 
 Vidéo de démonstration:
-1er partie:
+- 1er partie:
 [Android-exercice1.webm](https://github.com/user-attachments/assets/ecc0aa36-3ac9-4e02-9cac-ca371940c9ed)
-2eme partie:
+- 2eme partie:
 [Android-exercice1-layouts.webm](https://github.com/user-attachments/assets/9b34abfa-b968-4ba7-a7df-e5cb28b93e00)
 
 
