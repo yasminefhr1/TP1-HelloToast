@@ -8,8 +8,11 @@ Fonctionnalités:
 - Réinitialisation du compteur à zéro en appuyant sur le bouton RESET.
 
 Vidéo de démonstration:
-[Android-exercice1.webm](https://github.com/user-attachments/assets/3d3563d1-5a0d-4394-a598-9f5ee9f60756)
-[Android-exercice1-layouts.webm](https://github.com/user-attachments/assets/5586de64-1f6c-4c2c-b357-ee4625e2c6f5)
+1er partie:
+[Android-exercice1.webm](https://github.com/user-attachments/assets/ecc0aa36-3ac9-4e02-9cac-ca371940c9ed)
+2eme partie:
+[Android-exercice1-layouts.webm](https://github.com/user-attachments/assets/9b34abfa-b968-4ba7-a7df-e5cb28b93e00)
+
 
 Instructions d'installation:
 - Clonez ce dépôt sur votre machine locale:  https://github.com/yasminefhr1/TP1-HelloToast.git
